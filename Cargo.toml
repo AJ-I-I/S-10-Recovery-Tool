@@ -1,10 +1,8 @@
 [package]
 name = "s10-recovery-tool"
 version = "0.1.0"
-edition = "2021"
-authors = ["S-10 Recovery Tool"]
-description = "High-performance file recovery and forensic tool with TUI"
-license = "MIT"
+edition = "2024"
+authors = ["JONES"]
 
 [dependencies]
 # TUI Framework
